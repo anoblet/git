@@ -1,0 +1,10 @@
+{
+    "name": "anoblet/git",
+    "authors": [
+        {
+            "name": "Andy Noblet",
+            "email": "andrewbnoblet@gmail.com"
+        }
+    ],
+    "require": {}
+}
